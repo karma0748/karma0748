@@ -1,6 +1,6 @@
   [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 <p>
-  <h1 align="center"><b>Hello there, I'm ghostski 👋</b></h1>
+  <h1 align="center"><b>Hello there, I'm Karma 👋</b></h1>
 </p>
 
 <br>
